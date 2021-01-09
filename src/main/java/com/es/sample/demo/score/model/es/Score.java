@@ -1,6 +1,6 @@
 package com.es.sample.demo.score.model.es;
 
-import com.skel.pro.common.score.status.Rater;
+import com.es.sample.demo.score.status.Rater;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

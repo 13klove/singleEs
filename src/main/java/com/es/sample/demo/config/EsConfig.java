@@ -11,7 +11,7 @@ import org.springframework.data.elasticsearch.config.AbstractElasticsearchConfig
 import org.springframework.data.elasticsearch.repository.config.EnableElasticsearchRepositories;
 
 @Configuration
-@EnableElasticsearchRepositories(basePackages = "com.skel.pro.api", excludeFilters = { @ComponentScan.Filter(type = FilterType.REGEX, pattern = { ".*JpaRepository" })})
+@EnableElasticsearchRepositories(basePackages = "com.es.sample.demo", excludeFilters = { @ComponentScan.Filter(type = FilterType.REGEX, pattern = { ".*JpaRepository" })})
 public class EsConfig extends AbstractElasticsearchConfiguration {
 
     private final static String HOST = "192.168.74.130";

@@ -7,7 +7,7 @@ import org.springframework.context.annotation.FilterType;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @Configuration
-@EntityScan(basePackages = {"com.skel.pro.common"})
-@EnableJpaRepositories(basePackages = "com.skel.pro.api", excludeFilters = { @ComponentScan.Filter(type = FilterType.REGEX, pattern = { ".*EsRepository" })})
+//@EntityScan(basePackages = {"com.skel.pro.common"})
+@EnableJpaRepositories(basePackages = "com.es.sample.demo", excludeFilters = { @ComponentScan.Filter(type = FilterType.REGEX, pattern = { ".*EsRepository" })})
 public class JpaConfig {
 }
