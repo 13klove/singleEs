@@ -1,0 +1,267 @@
+[
+{
+    "movieName": "원더 우먼 1984",
+    "movieEnName": "Wonder Woman 1984",
+    "openingDate": "2020-12-23",
+    "genre": ["ACTION", "ADVENTURE"],
+    "country": "USA",
+    "age": "12",
+    "actors": [
+        {"name":"갤 가돗", "gender":"WOMAN"},
+        {"name":"크리스 파인", "gender":"MAN"},
+        {"name":"크리스틴 위그", "gender":"WOMAN"},
+        {"name":"페드로 파스칼", "gender":"MAN"}
+    ],
+    "scores":[
+        {"rater":"REPORTER", "point":"5.67" },
+        {"rater":"AUDIENCE", "point":"7.58" }
+    ]
+},
+{
+    "movieName": "가디언즈 오브 갤럭시 VOL. 2",
+    "movieEnName": "Guardians of the Galaxy Vol. 2",
+    "openingDate": "2017-05-03",
+    "genre": ["ACTION", "SF"],
+    "country": "USA",
+    "age": "12",
+    "actors": [
+        {"name":"크리스 프랫", "gender":"MAN"},
+        {"name":"조 샐다나", "gender":"WOMAN"},
+        {"name":"데이브 바티스타", "gender":"MAN"},
+        {"name":"빈 디젤", "gender":"MAN"},
+        {"name":"브래들리 쿠퍼", "gender":"MAN"}
+    ],
+    "scores":[
+        {"rater":"REPORTER", "point":"7.21" },
+        {"rater":"AUDIENCE", "point":"8.25" }
+    ]
+},
+{
+    "movieName": "쥬라기 월드",
+    "movieEnName": "Jurassic World",
+    "openingDate": "2015-06-11",
+    "genre": ["ACTION", "ADVENTURE", "SF", "THRILLER"],
+    "country": "USA",
+    "age": "12",
+    "actors": [
+        {"name":"크리스 프랫", "gender":"MAN"},
+        {"name":"브라이스 달라스 하워드", "gender":"WOMAN"},
+        {"name":"빈센트 도노프리오", "gender":"MAN"},
+        {"name":"타이 심킨스", "gender":"MAN"},
+        {"name":"닉 로빈슨", "gender":"MAN"}
+    ],
+    "scores":[
+        {"rater":"REPORTER", "point":"8.01" },
+        {"rater":"AUDIENCE", "point":"8.52" }
+    ]
+},
+{
+    "movieName": "매트릭스",
+    "movieEnName": "The Matrix",
+    "openingDate": "1999-05-15",
+    "genre": ["ACTION", "SF"],
+    "country": "USA",
+    "age": "12",
+    "actors": [
+        {"name":"키아누 리브스", "gender":"MAN"},
+        {"name":"로렌스 피시번", "gender":"MAN"}
+    ],
+    "scores":[
+        {"rater":"REPORTER", "point":"8.75" },
+        {"rater":"AUDIENCE", "point":"8.91" }
+    ]
+},
+{
+     "movieName": "존 윅",
+     "movieEnName": "John Wick",
+     "openingDate": "2015-01-21",
+     "genre": ["ACTION", "THRILLER"],
+     "country": "USA",
+     "age": "19",
+     "actors": [
+         {"name":"키아누 리브스", "gender":"MAN"},
+         {"name":"미카엘 니크비스트", "gender":"MAN"}
+     ],
+    "scores":[
+        {"rater":"REPORTER", "point":"7.49" },
+        {"rater":"AUDIENCE", "point":"8.36" }
+    ]
+},
+ {
+      "movieName": "아이덴티티",
+      "movieEnName": "Identity",
+      "openingDate": "2003-10-31",
+      "genre": ["DRAMA", "THRILLER"],
+      "country": "USA",
+      "age": "15",
+      "actors": [
+          {"name":"짐 캐리", "gender":"MAN"}
+      ],
+    "scores":[
+        {"rater":"REPORTER", "point":"8.07" },
+        {"rater":"AUDIENCE", "point":"8.67" }
+    ]
+ },
+{
+    "movieName": "마스크",
+    "movieEnName": "The Mask",
+    "openingDate": "1994-08-20",
+    "genre": ["COMEDY", "FANTASY", "ACTION", "CRIME"],
+    "country": "USA",
+    "age": "15",
+    "actors": [
+        {"name":"존 쿠삭", "gender":"MAN"},
+        {"name":"레이 리오타", "gender":"MAN"},
+        {"name":"아만다 피트", "gender":"WOMAN"}
+    ],
+    "scores":[
+        {"rater":"REPORTER", "point":"7.74" },
+        {"rater":"AUDIENCE", "point":"8.36" }
+    ]
+},
+{
+     "movieName": "삼진그룹 영어 토익반",
+     "movieEnName": "SAMJIN COMPANY ENGLISH CLASS",
+     "openingDate": "2020-10-21",
+     "genre": ["DRAMA"],
+     "country": "KO",
+     "age": "12",
+     "actors": [
+         {"name":"고아성", "gender":"WOMAN"},
+         {"name":"이솜", "gender":"WOMAN"},
+         {"name":"박혜수", "gender":"WOMAN"}
+     ],
+    "scores":[
+        {"rater":"REPORTER", "point":"7.04" },
+        {"rater":"AUDIENCE", "point":"8.19" }
+    ]
+},
+{
+   "movieName": "타짜",
+   "movieEnName": "The War Of Flower",
+   "openingDate": "2006-09-28",
+   "genre": ["DRAMA", "COMEDY", "THRILLER", "CRIME"],
+   "country": "KO",
+   "age": "19",
+   "actors": [
+       {"name":"조승우", "gender":"MAN"},
+       {"name":"김혜수", "gender":"WOMAN"},
+       {"name":"백윤식", "gender":"MAN"},
+       {"name":"유해진", "gender":"MAN"}
+   ],
+    "scores":[
+        {"rater":"REPORTER", "point":"7.98" },
+        {"rater":"AUDIENCE", "point":"8.45" }
+    ]
+},
+{
+    "movieName": "라라랜드",
+    "movieEnName": "La La Land",
+    "openingDate": "2016-12-07",
+    "genre": ["DRAMA", "MUSICAL", "MELLOW", "ROMANCE"],
+    "country": "USA",
+    "age": "12",
+    "actors": [
+        {"name":"라이언 고슬링", "gender":"MAN"},
+        {"name":"엠마 스톤", "gender":"WOMAN"}
+    ],
+    "scores":[
+        {"rater":"REPORTER", "point":"8.22" },
+        {"rater":"AUDIENCE", "point":"8.38" }
+    ]
+},
+{
+   "movieName": "라이언 일병 구하기",
+   "movieEnName": "Saving Private Ryan",
+   "openingDate": "1998-09-12",
+   "genre": ["DRAMA", "WAR", "ACTION"],
+   "country": "USA",
+   "age": "15",
+   "actors": [
+       {"name":"톰 행크스", "gender":"MAN"},
+       {"name":"에드워드 번즈", "gender":"MAN"},
+       {"name":"톰 시즈모어", "gender":"MAN"},
+       {"name":"제레미 데이비스", "gender":"MAN"},
+       {"name":"빈 디젤", "gender":"MAN"},
+       {"name":"아담 골드버그", "gender":"MAN"},
+       {"name":"래리 페퍼", "gender":"MAN"},
+       {"name":"지오바니 리비시", "gender":"MAN"},
+       {"name":"맷 데이먼", "gender":"MAN"},
+       {"name":"데니스 파리나", "gender":"MAN"},
+       {"name":"테드 댄슨", "gender":"MAN"}
+   ],
+    "scores":[
+        {"rater":"REPORTER", "point":"8.97" },
+        {"rater":"AUDIENCE", "point":"8.12" }
+    ]
+},
+{
+     "movieName": "달콤한 인생",
+     "movieEnName": "A Bittersweet Life",
+     "openingDate": "2005-04-01",
+     "genre": ["DRAMA", "NORI", "ACTION"],
+     "country": "KO",
+     "age": "19",
+     "actors": [
+         {"name":"이병헌", "gender":"MAN"},
+         {"name":"김영철", "gender":"MAN"},
+         {"name":"신민아", "gender":"WOMAN"}
+     ],
+    "scores":[
+        {"rater":"REPORTER", "point":"7.01" },
+        {"rater":"AUDIENCE", "point":"7.59" }
+    ]
+},
+{
+     "movieName": "인셉션",
+     "movieEnName": "Inception",
+     "openingDate": "2010-07-21",
+     "genre": ["SF", "ACTION", "THRILLER", "ADVENTURE"],
+     "country": "USA",
+     "age": "12",
+     "actors": [
+         {"name":"레오나르도 디카프리오", "gender":"MAN"},
+         {"name":"와타나베 켄", "gender":"MAN"},
+         {"name":"조셉 고든 레빗", "gender":"MAN"},
+         {"name":"톰하디", "gender":"MAN"},
+         {"name":"마리옹 꼬띠아르", "gender":"WOMAN"},
+         {"name":"엘렌 페이지", "gender":"WOMAN"}
+     ],
+    "scores":[
+        {"rater":"REPORTER", "point":"8.87" },
+        {"rater":"AUDIENCE", "point":"8.62" }
+    ]
+},
+{
+     "movieName": "타이타닉",
+     "movieEnName": "Titanic",
+     "openingDate": "1998-02-20",
+     "genre": ["MELLOW", "ROMANCE", "DRAMA"],
+     "country": "USA",
+     "age": "15",
+     "actors": [
+         {"name":"레오나르도 디카프리오", "gender":"MAN"},
+         {"name":"케이트 윈슬렛", "gender":"WOMAN"}
+     ],
+    "scores":[
+        {"rater":"REPORTER", "point":"8.53" },
+        {"rater":"AUDIENCE", "point":"9.01" }
+    ]
+},
+{
+     "movieName": "콘스탄틴",
+     "movieEnName": "Constantine",
+     "openingDate": "2005-02-08",
+     "genre": ["THRILLER", "ACTION", "DRAMA", "FANTASY"],
+     "country": "USA",
+     "age": "15",
+     "actors": [
+         {"name":"키아누 리브스", "gender":"MAN"},
+         {"name":"레이첼 와이즈", "gender":"WOMAN"}
+     ],
+    "scores":[
+        {"rater":"REPORTER", "point":"7.67" },
+        {"rater":"AUDIENCE", "point":"8.59" }
+    ]
+}
+]
